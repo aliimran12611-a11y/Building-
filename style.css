@@ -288,19 +288,19 @@ body{
          }
 
          .project:nth-child(1) .pro-img{
-            background-image: url('https://preview.colorlib.com/theme/construction/img/p1.jpg');
+            background-image: url(https://preview.colorlib.com/theme/construction/img/native/timber-1440.avif);
          }
 
          .project:nth-child(2) .pro-img{
-            background-image: url('https://preview.colorlib.com/theme/construction/img/p2.jpg');
+            background-image: url(https://preview.colorlib.com/theme/construction/img/native/workspace-960.avif);
          }
 
          .project:nth-child(3) .pro-img{
-            background-image: url('https://preview.colorlib.com/theme/construction/img/p3.jpg');
+            background-image: url(https://preview.colorlib.com/theme/construction/img/native/planning-1440.avif);
          }
 
          .project:nth-child(4) .pro-img{
-            background-image: url(https://preview.colorlib.com/theme/construction/img/p4.jpg);
+            background-image: url(https://preview.colorlib.com/theme/construction/img/native/room-960.avif);
          }
 
          .overlay{
